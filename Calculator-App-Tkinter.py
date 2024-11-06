@@ -3,7 +3,7 @@ import math
 
 # Create a Window using a tkinter object
 window = tk.Tk()
-window.geometry("400x350")
+window.geometry("600x350")
 window.title("Basic Calculator App")
 
 # Number inputs
